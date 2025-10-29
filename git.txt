@@ -1,1 +1,2 @@
-hello from github workshop
+hello from github workshop !
+we can return to the previous version with commit

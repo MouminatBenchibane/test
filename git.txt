@@ -1,6 +1,7 @@
 hello from github workshop !
 we can return to the previous version with commit
 
-1-add the file
-2-specify what do you add with commit msg
-3-git status to show the files I have added 
+1-add the files git add (add it the the stage) (name of the file /if you want to add all the folder type .)
+2-specify what do you add with commit msg (git commit -m "message to specify what I added)
+3-git status to show the files I have added (what are the files that are in the stage and specify whether they're modified)
+4-push the code in the repo using (git push -u origin main )
